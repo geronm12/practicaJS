@@ -1,3 +1,9 @@
 h1 {
   color: blue;
 }
+
+#contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
