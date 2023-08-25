@@ -53,3 +53,5 @@
 
 //   elemento.innerHTML = htmlString;
 // };
+
+console.log("Hola Mundo");
