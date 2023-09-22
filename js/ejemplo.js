@@ -192,3 +192,6 @@ switch (operacion) {
     alert("Ingrese los valores indicados previamente. No sea imbecil");
     break;
 }
+
+
+
