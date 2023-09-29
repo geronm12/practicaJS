@@ -74,7 +74,7 @@
 
 let cont = true;
 let shoppingCart = []; //-> length 1
-
+console.log("Hola mundo");
 while (cont) {
   let productName = prompt("Ingrese el nombre del producto");
   let productPrice = prompt("Ingrese el precio");
@@ -82,7 +82,6 @@ while (cont) {
 
   //acá estamos evitando restarle 1 a 0
   //length = 0 - 1 = array[-1]
-
   if (shoppingCart.length > 0) {
     index = shoppingCart.length - 1;
   }

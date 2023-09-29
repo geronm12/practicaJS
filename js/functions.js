@@ -77,8 +77,7 @@ while (!salir) {
 
 //Asilar lógica
 function Question() {
-  let a = +prompt("Ingrese el primer valor.");
-  let b = +prompt("Ingrese el segundo valor.");
+
   return [a, b];
 }
 
