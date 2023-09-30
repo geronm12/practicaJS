@@ -62,3 +62,7 @@ function Validate(paramA, paramB) {
 
 
 // console.log(resultado / array.length);
+
+function FuncionCreadaParaProbarWorkerService(){
+  return "Hola mundo";
+}
